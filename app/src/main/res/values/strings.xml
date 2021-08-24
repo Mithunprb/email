@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">email</string>
+
+    <string name="subject">Subject</string>
+    <string name="to">Email</string>
+    <string name="send">Send mail</string>
+    <string name="activityerr">error</string>
+    <string name="message">Message</string>
+
+</resources>
