@@ -1,5 +1,5 @@
 # email
-email intent app
+Android app in JAVA to send email
 
 ### Fixing the build.gradle file
 Since Android is always releasing new sums of SDK packages, whenever you open or import an old project in Android Studio, you may see an alert saying that the plugin is too old:
